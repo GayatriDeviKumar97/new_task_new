@@ -280,7 +280,7 @@ const Details = () => {
       </div>
 
       <div className="main-container p-2 pt-0 pb-0 rounded">
-        <div className="inner_container">
+        <div className="inner_container class_adn">
           <>
             {activeTab === "Services" && (
               <>
