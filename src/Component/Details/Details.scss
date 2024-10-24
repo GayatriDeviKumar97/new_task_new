@@ -1,0 +1,44 @@
+@import "../../assets/css/color.scss";
+@import "../../assets/css/global.scss";
+
+.icon {
+  width: 10px;
+  height: 10px;
+}
+.icon1 {
+  width: 15px;
+  height: 15px;
+}
+
+.blue_title {
+  font-size: $font22;
+  font-weight: 700;
+}
+.btn_style {
+  background-color: $secondary-white;
+}
+.main-container {
+  background-color: $grey-hash;
+}
+.inner_container {
+  background-color: $secondary-white;
+}
+.button_header {
+  background-color: $light-grey;
+  border-radius: 10px;
+}
+.btn_dev {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.dev_title {
+  font-size: $font12;
+  background-color: $grey-hash;
+}
+.add-on{
+    text-decoration: none;
+    cursor: pointer;
+}
+.handle{
+    cursor: pointer;
+}

@@ -1,0 +1,33 @@
+@import "../../assets/css/color.scss";
+@import "../../assets/css/global.scss";
+
+$font-bold: "Albert Sans Bold";
+$font-black: "Albert Sans Black";
+$font-regular: "Albert Sans Regular";
+$font-semibold: "Albert Sans Semibold";
+$font-thin: "Albert Sans Thin";
+$font-italic: "Albert Sans Italic";
+$font-bolditalic: "Albert Sans Bolditalic";
+$font-poppins: "Poppins";
+
+.setting_image {
+  width: 20px;
+  height: 20px;
+}
+.setting_image1 {
+  width: 35px;
+  height: 35px;
+}
+.logo_border {
+  border-right: 1px solid $grey-hash;
+}
+.slash_class {
+  bottom: 18px;
+}
+.title {
+  font-size: $font15;
+}
+.title_innerhead{
+  font-weight: 600;
+  font-size: $font15;
+}
